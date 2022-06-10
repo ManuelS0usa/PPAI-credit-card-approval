@@ -1,2 +1,2 @@
 # Privacy Preserving Artificial Intelligence 
-## Credit card approval dataset anonimization & training | Manuel Sousa
+## Credit card approval dataset anonimization & training
