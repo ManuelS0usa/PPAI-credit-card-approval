@@ -9,7 +9,7 @@
 A risk of maximum 10% Prosecutor Risk and K-anonymity of 5.
 
 ### Context
-A given insurance company in order to target credit card approval has a dataset to apply machine learning algorithms to predic approvals.
+For the purpose of this project, a given insurance company in order to target credit card approval has a dataset to apply machine learning algorithms to predic approvals.
 
 ### Scripts & files
 The following scripts were built in the scope of the development of this project:
