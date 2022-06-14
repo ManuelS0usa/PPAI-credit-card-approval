@@ -1,5 +1,5 @@
-# Privacy Preserving Artificial Intelligence 
-## Credit card approval dataset anonimization & model training
+# Predict Credit Card Approval With Data Anonimization
+### Privacy Preserving Artificial Intelligence Project | Manuel Sousa | 14.06.2022
 
 ### Goal: 
 * Build an AI model that predict credit card approval using original and anonimized data;
